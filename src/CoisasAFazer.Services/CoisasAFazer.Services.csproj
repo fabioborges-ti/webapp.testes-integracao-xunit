@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoisasAFazer.Core\CoisasAFazer.Core.csproj" />
+    <ProjectReference Include="..\CoisasAFazer.Infrastructure\CoisasAFazer.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
